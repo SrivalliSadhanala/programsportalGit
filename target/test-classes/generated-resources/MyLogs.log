@@ -1,0 +1,307 @@
+[INFO ] 2021-05-09 11:31:18.831 [main] LogUtilityFunctions - In Loggers Utility Function
+[INFO ] 2021-05-09 11:39:29.412 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:08:11.371 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:17:09.342 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:22:51.110 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:24:44.664 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:27:22.602 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:29:05.362 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:37:44.252 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:41:59.910 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:48:05.790 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 16:53:02.068 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 18:48:36.172 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-09 19:26:31.115 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-10 09:12:49.428 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-10 17:20:39.043 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-10 17:20:56.899 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-10 17:36:35.554 [TestNG-test=Test-2] LogUtilityFunctions - SihnUp with default parameters
+[INFO ] 2021-05-10 17:36:35.915 [TestNG-test=Test-1] LogUtilityFunctions - SihnUp with default parameters
+[INFO ] 2021-05-10 17:36:35.996 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-10 17:36:36.323 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-10 17:36:36.390 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-10 17:36:36.667 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-11 15:59:01.646 [TestNG-test=Test-2] LogUtilityFunctions - SihnUp with default parameters
+[INFO ] 2021-05-11 15:59:01.645 [TestNG-test=Test-1] LogUtilityFunctions - SihnUp with default parameters
+[INFO ] 2021-05-13 09:45:14.154 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 09:45:14.539 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-13 09:45:14.836 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-13 09:45:30.360 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 09:45:30.692 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-13 09:45:30.970 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-13 09:49:24.307 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 09:49:24.307 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 13:25:35.551 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 13:25:35.551 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 13:28:07.908 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 13:28:29.295 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 15:59:12.748 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 15:59:13.151 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-13 16:04:17.040 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 16:04:17.511 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-13 16:04:17.523 [main] LogUtilityFunctions - http://epinhydw0087/programs/#/register
+[INFO ] 2021-05-13 16:08:00.580 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-13 16:08:00.961 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-13 16:08:00.972 [main] LogUtilityFunctions - http://epinhydw0087/programs/#/register
+[INFO ] 2021-05-13 16:42:25.340 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:33:02.557 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:33:02.557 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:33:03.033 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 10:33:03.049 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 10:33:03.680 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 10:33:03.689 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 10:38:09.475 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:38:09.475 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:38:09.885 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 10:38:09.914 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 10:38:10.906 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 10:38:10.945 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 10:44:13.618 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:44:13.937 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 10:44:14.233 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 10:44:17.622 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-15 10:44:17.962 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 10:44:18.252 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 11:04:02.745 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:09:48.885 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:15:51.770 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:23:49.919 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:23:50.226 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:23:51.073 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:30:20.555 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:30:20.921 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:30:21.200 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-15 11:30:21.256 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:32:04.612 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:32:04.923 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:32:05.734 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:36:42.068 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:42:39.980 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:42:40.348 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:42:41.211 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:44:16.506 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:44:16.847 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:44:20.814 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:49:48.765 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:49:49.133 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:49:49.811 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:49:50.051 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:49:50.558 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:53:38.351 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:53:38.681 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:53:40.200 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:53:40.432 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:53:41.397 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:54:55.052 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:54:55.374 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:54:56.610 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:56:50.162 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:56:50.491 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 11:56:51.363 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:59:59.425 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 11:59:59.726 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 12:00:00.548 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 12:00:00.806 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 12:01:38.952 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 12:01:39.298 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 12:03:02.884 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-15 12:03:03.278 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-15 12:04:32.071 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 10:58:20.169 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 10:58:20.488 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 11:00:14.663 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 11:00:14.955 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 11:03:30.205 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 11:03:30.523 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 14:49:47.244 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 14:49:47.651 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:05:14.168 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:05:14.512 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:05:14.842 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:08:04.893 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:08:05.235 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:08:05.522 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:10:05.920 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:10:06.263 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:10:06.614 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:12:26.736 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:12:27.129 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:12:27.452 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:12:31.209 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:12:32.469 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:12:33.855 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:18:29.843 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:18:30.227 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:18:30.560 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:18:34.921 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:18:36.210 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:18:37.401 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:01.591 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:22:01.935 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:22:02.260 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:22:06.179 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:07.637 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:08.976 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:10.264 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:11.651 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:13.029 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:22:14.214 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:23:20.726 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:23:21.027 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:23:21.313 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:23:24.468 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:24:57.036 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:24:57.381 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:24:57.708 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:26:29.010 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 15:26:29.336 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 15:26:29.667 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 15:26:33.559 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:26:34.951 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:26:36.277 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:26:37.549 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:26:38.841 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:26:40.126 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 15:26:41.421 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:04.056 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 16:54:04.374 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 16:54:04.756 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 16:54:08.931 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:10.487 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:11.857 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:13.359 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:15.114 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:16.418 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:17.754 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 16:54:19.314 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:02:27.775 [TestNG-test=Test-1] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 17:02:28.237 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:02:28.633 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:02:28.930 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:02:29.018 [TestNG-test=Test-1] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 17:02:29.140 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:02:29.388 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:02:29.613 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:02:32.751 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:02:34.429 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:02:35.790 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:04:30.164 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:04:30.164 [TestNG-test=Test-1] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 17:04:30.638 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:04:30.656 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:04:31.108 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:04:31.162 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:04:31.209 [TestNG-test=Test-1] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-16 17:04:31.517 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:04:34.189 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:04:35.183 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:04:36.924 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:04:38.511 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:04:39.935 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-16 17:08:06.093 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:08:06.511 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:08:06.874 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:08:06.928 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:10:50.653 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:10:51.038 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:10:51.411 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:10:51.477 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:14:37.083 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:14:37.583 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:14:37.972 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:15:47.303 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:15:47.630 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:15:47.998 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:20:18.877 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-16 17:20:19.194 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-16 17:20:19.591 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-16 17:20:19.592 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 09:21:24.065 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 09:21:24.370 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 09:21:24.634 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 09:21:25.263 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 09:25:52.339 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 09:26:18.662 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 09:45:59.107 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 09:46:04.316 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 10:08:55.682 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:14:23.472 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-17 12:16:19.965 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-17 12:22:15.380 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-17 12:22:15.769 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:23:32.473 [main] LogUtilityFunctions - Sending the data from Excel through DataProvider
+[INFO ] 2021-05-17 12:23:32.890 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:24:44.006 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:24:44.399 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:24:44.727 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:24:44.729 [main] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 12:28:17.512 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:28:17.795 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:28:18.120 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:28:21.483 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:22.748 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:23.899 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:25.068 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:26.233 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:27.401 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:28.481 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:28:29.644 [main] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:30:12.256 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:30:12.581 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:30:12.856 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:41:13.449 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:41:13.752 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:41:14.048 [main] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:51:17.742 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:51:17.742 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:51:18.113 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:51:18.135 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:51:18.513 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:51:18.524 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:51:18.525 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 12:51:21.016 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:51:22.197 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:51:23.458 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:51:50.900 [TestNG-test=Test-3] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:51:51.170 [TestNG-test=Test-3] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:51:51.461 [TestNG-test=Test-3] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:58:44.499 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:58:44.624 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:58:45.013 [TestNG-test=Test-2] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:58:45.095 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:58:45.462 [TestNG-test=Test-3] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 12:58:45.617 [TestNG-test=Test-2] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:58:45.678 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:58:45.678 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 12:58:45.884 [TestNG-test=Test-3] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 12:58:46.218 [TestNG-test=Test-3] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 12:58:48.402 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:58:49.579 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:58:50.761 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:58:51.896 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 12:58:53.082 [TestNG-test=Test-2] LogUtilityFunctions - Data can be added
+[INFO ] 2021-05-17 14:27:55.967 [TestNG-test=Test-2] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 14:27:57.303 [TestNG-test=Test-3] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 14:28:57.627 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 15:39:07.885 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 15:39:08.275 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 15:49:40.159 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 15:49:40.463 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 16:04:12.537 [main] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 16:04:12.873 [main] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 16:10:05.072 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 16:10:05.364 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 16:10:05.636 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 16:10:05.637 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 16:20:57.409 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 16:20:57.724 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 16:20:58.046 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 16:20:58.047 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 16:23:05.996 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 16:23:06.331 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 16:23:06.636 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 16:23:06.637 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
+[INFO ] 2021-05-17 16:30:55.053 [TestNG-test=Test-1] LogUtilityFunctions - SignUp with default parameters
+[INFO ] 2021-05-17 16:30:55.452 [TestNG-test=Test-1] LogUtilityFunctions - SignUp Successful, will be navigated to SihnIn Page
+[INFO ] 2021-05-17 16:30:55.774 [TestNG-test=Test-1] LogUtilityFunctions - SignIn successful navigated to HomePage
+[INFO ] 2021-05-17 16:30:55.775 [TestNG-test=Test-1] LogUtilityFunctions - In SignIn Validation Method
